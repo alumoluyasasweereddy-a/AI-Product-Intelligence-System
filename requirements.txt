@@ -1,0 +1,12 @@
+torch
+open-clip-torch
+faiss-cpu
+numpy
+pandas
+matplotlib
+Pillow
+opencv-python
+scikit-learn
+tqdm
+jupyter
+ipykernel
